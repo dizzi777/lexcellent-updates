@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.34-beta/Lexcellent-Setup-0.9.34-beta.exe",
-    "version":  "0.9.34-beta",
-    "notes":  "Beta release for friends. Fixes desktop interval after card close."
+    "version":  "0.9.35-beta",
+    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.35-beta/Lexcellent-Setup-0.9.35-beta.exe",
+    "notes":  "Beta release for friends. Syncs desktop cards from shared study state and stabilizes active card lifetime."
 }
