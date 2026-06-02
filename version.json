@@ -1,6 +1,5 @@
 {
-    "notes":  "Beta release for friends. Keeps manual desktop shows local while syncing the shared account timer.",
-    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.38-beta/Lexcellent-Setup-0.9.38-beta.exe",
-    "version":  "0.9.38-beta",
-    "sha256":  "263061C5FAD165A35190ADE7DFAFC4D7C97AE563292C5B33CDD1422A95149BF1"
+    "version":  "0.9.39-beta",
+    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.39-beta/Lexcellent-Setup-0.9.39-beta.exe",
+    "notes":  "Beta release for friends. Desktop installer update."
 }
