@@ -1,5 +1,5 @@
 {
-    "version":  "0.9.36-beta",
-    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.36-beta/Lexcellent-Setup-0.9.36-beta.exe",
-    "notes":  "Beta release for friends. Keeps shared cards open until answer or manual close and syncs manual desktop closes."
+    "version":  "0.9.37-beta",
+    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.37-beta/Lexcellent-Setup-0.9.37-beta.exe",
+    "notes":  "Beta release for friends. Prevents desktop from reopening a locally answered shared card while cloud sync catches up."
 }
