@@ -1,5 +1,6 @@
 {
-    "version":  "0.9.47-beta",
-    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.47-beta/Lexcellent-Setup-0.9.47-beta.exe",
-    "notes":  "Beta release for friends. Desktop installer update."
+  "version": "0.9.48-beta",
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/v0.9.48-beta/Lexcellent-Setup-0.9.48-beta.exe",
+  "sha256": "5ca59a1db444a721d671c7edee055d675221cc583c8c20fb52eff5645e204235",
+  "notes": "Beta release for friends. Desktop installer update."
 }
