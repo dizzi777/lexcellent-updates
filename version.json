@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.3-beta",
-    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v1.0.3-beta/Lexcellent-Setup-1.0.3-beta.exe",
-    "notes":  "Beta release for friends. Desktop installer update."
+    "version":  "1.0.4-beta",
+    "url":  "https://github.com/dizzi777/lexcellent-updates/releases/download/v1.0.4-beta/Lexcellent-Setup-1.0.4-beta.exe",
+    "notes":  "Desktop v1.0.4-beta: notification pulse (2 min show, dismiss, 1 min gap, re-show) for desktop via WebSocket."
 }
