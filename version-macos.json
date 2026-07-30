@@ -1,7 +1,7 @@
 {
-  "version": "0.1.24",
+  "version": "0.1.25",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.24/Lexcellent-0.1.24.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.24/Lexcellent-0.1.24.dmg",
-  "notes": "macOS 0.1.24 \u2014 in-app update checker"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.25/Lexcellent-0.1.25.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.25/Lexcellent-0.1.25.dmg",
+  "notes": "macOS 0.1.25 \u2014 move-to-Applications on first run, updater cleanup"
 }
