@@ -2,5 +2,6 @@
   "version": "0.1.24",
   "channel": "macos",
   "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.24/Lexcellent-0.1.24.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.24/Lexcellent-0.1.24.dmg",
   "notes": "macOS 0.1.24 \u2014 in-app update checker"
 }
