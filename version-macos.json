@@ -1,6 +1,6 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.24",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.23/Lexcellent-0.1.23.zip",
-  "notes": "macOS 0.1.23 \u2014 first notarized build"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.24/Lexcellent-0.1.24.zip",
+  "notes": "macOS 0.1.24 \u2014 in-app update checker"
 }
