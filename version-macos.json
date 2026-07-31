@@ -1,7 +1,7 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.31/Lexcellent-0.1.31.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.31/Lexcellent-0.1.31.dmg",
-  "notes": "macOS 0.1.31 \u2014 logout card-over-login fix"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.32/Lexcellent-0.1.32.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.32/Lexcellent-0.1.32.dmg",
+  "notes": "macOS 0.1.32 \u2014 richer answer feedback"
 }
