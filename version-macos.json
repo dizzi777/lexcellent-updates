@@ -1,7 +1,7 @@
 {
-  "version": "0.1.29",
+  "version": "0.1.30",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.29/Lexcellent-0.1.29.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.29/Lexcellent-0.1.29.dmg",
-  "notes": "macOS 0.1.29 \u2014 steady connection dot"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.30/Lexcellent-0.1.30.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.30/Lexcellent-0.1.30.dmg",
+  "notes": "macOS 0.1.30 \u2014 study-window + offline dot fixes"
 }
