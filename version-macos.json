@@ -1,7 +1,7 @@
 {
-  "version": "0.1.33",
+  "version": "0.1.34",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.33/Lexcellent-0.1.33.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.33/Lexcellent-0.1.33.dmg",
-  "notes": "macOS 0.1.33 \u2014 consistent [ipa]"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.34/Lexcellent-0.1.34.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.34/Lexcellent-0.1.34.dmg",
+  "notes": "macOS 0.1.34 \u2014 verdict flicker fix"
 }
