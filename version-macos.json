@@ -1,7 +1,7 @@
 {
-  "version": "0.1.35",
+  "version": "0.1.36",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.35/Lexcellent-0.1.35.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.35/Lexcellent-0.1.35.dmg",
-  "notes": "macOS 0.1.35 — offline hardening"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.36/Lexcellent-0.1.36.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.36/Lexcellent-0.1.36.dmg",
+  "notes": "macOS 0.1.36 — version fix + offline autonomy"
 }
