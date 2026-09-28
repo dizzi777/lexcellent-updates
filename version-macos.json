@@ -1,7 +1,7 @@
 {
-  "version": "0.1.39",
+  "version": "0.1.40",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.39/Lexcellent-0.1.39.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.39/Lexcellent-0.1.39.dmg",
-  "notes": "macOS 0.1.39 — DND survives restarts, crossed bell while muted, pronunciation eye toggle, clearer sign-in errors"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.40/Lexcellent-0.1.40.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.40/Lexcellent-0.1.40.dmg",
+  "notes": "macOS 0.1.40 — crossed-bell badge on the menu-bar icon during Do Not Disturb"
 }
