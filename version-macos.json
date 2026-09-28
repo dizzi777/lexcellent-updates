@@ -1,7 +1,7 @@
 {
-  "version": "0.1.38",
+  "version": "0.1.39",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.38/Lexcellent-0.1.38.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.38/Lexcellent-0.1.38.dmg",
-  "notes": "macOS 0.1.38 — timezone-aware DND, endonym language picker"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.39/Lexcellent-0.1.39.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.39/Lexcellent-0.1.39.dmg",
+  "notes": "macOS 0.1.39 — DND survives restarts, crossed bell while muted, pronunciation eye toggle, clearer sign-in errors"
 }
