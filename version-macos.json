@@ -1,7 +1,7 @@
 {
-  "version": "0.1.40",
+  "version": "0.1.41",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.40/Lexcellent-0.1.40.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.40/Lexcellent-0.1.40.dmg",
-  "notes": "macOS 0.1.40 — crossed-bell badge on the menu-bar icon during Do Not Disturb"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.41/Lexcellent-0.1.41.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.41/Lexcellent-0.1.41.dmg",
+  "notes": "macOS 0.1.41 — Show now and training cards appear instantly"
 }
