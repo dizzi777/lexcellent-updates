@@ -1,7 +1,7 @@
 {
-  "version": "0.1.41",
+  "version": "0.1.42",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.41/Lexcellent-0.1.41.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.41/Lexcellent-0.1.41.dmg",
-  "notes": "macOS 0.1.41 — Show now and training cards appear instantly"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.42/Lexcellent-0.1.42.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.42/Lexcellent-0.1.42.dmg",
+  "notes": "macOS 0.1.42 — fixes a crash on taller cards and on sign-out"
 }
