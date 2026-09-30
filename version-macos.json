@@ -1,7 +1,7 @@
 {
-  "version": "0.1.45",
+  "version": "0.1.44",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.45/Lexcellent-0.1.45.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.45/Lexcellent-0.1.45.dmg",
-  "notes": "macOS 0.1.45 — no content jump when the on-screen keyboard opens or closes"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.44/Lexcellent-0.1.44.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.44/Lexcellent-0.1.44.dmg",
+  "notes": "macOS 0.1.44 — Show now fix, keyboard layout follows the card, sticky on-screen keyboard"
 }
