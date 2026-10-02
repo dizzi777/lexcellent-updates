@@ -1,7 +1,7 @@
 {
-  "version": "0.1.45",
+  "version": "0.1.46",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.45/Lexcellent-0.1.45.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.45/Lexcellent-0.1.45.dmg",
-  "notes": "macOS 0.1.45 — no content jump when the on-screen keyboard opens or closes"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.46/Lexcellent-0.1.46.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.46/Lexcellent-0.1.46.dmg",
+  "notes": "macOS 0.1.46 — language switch works; open card stays; card returns after unlock; hover submenus"
 }
