@@ -1,7 +1,7 @@
 {
-  "version": "0.1.46",
+  "version": "0.1.47",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.46/Lexcellent-0.1.46.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.46/Lexcellent-0.1.46.dmg",
-  "notes": "macOS 0.1.46 — language switch works; open card stays; card returns after unlock; hover submenus"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.47/Lexcellent-0.1.47.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.47/Lexcellent-0.1.47.dmg",
+  "notes": "macOS 0.1.47 — the card takes the keyboard only after a pause in typing"
 }
