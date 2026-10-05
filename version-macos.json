@@ -1,7 +1,7 @@
 {
-  "version": "0.1.50",
+  "version": "0.1.51",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.50/Lexcellent-0.1.50.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.50/Lexcellent-0.1.50.dmg",
-  "notes": "macOS 0.1.50 — Auto-update in Settings; centred on-screen keyboards"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.51/Lexcellent-0.1.51.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.51/Lexcellent-0.1.51.dmg",
+  "notes": "macOS 0.1.51 — Training and Show now work fully locally"
 }
