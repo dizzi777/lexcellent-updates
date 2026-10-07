@@ -1,7 +1,7 @@
 {
-  "version": "0.1.52",
+  "version": "0.1.53",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.52/Lexcellent-0.1.52.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.52/Lexcellent-0.1.52.dmg",
-  "notes": "macOS 0.1.52 — local cache tied to the signed-in account"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.53/Lexcellent-0.1.53.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.53/Lexcellent-0.1.53.dmg",
+  "notes": "macOS 0.1.53 — settings sync: the newest change wins"
 }
