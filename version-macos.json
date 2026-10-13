@@ -1,7 +1,7 @@
 {
-  "version": "0.1.60",
+  "version": "0.1.61",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.60/Lexcellent-0.1.60.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.60/Lexcellent-0.1.60.dmg",
-  "notes": "macOS 0.1.60 \u2014 card layout pass: brand in the title bar, the prompt centered, quieter language pair"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.61/Lexcellent-0.1.61.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.61/Lexcellent-0.1.61.dmg",
+  "notes": "macOS 0.1.61 \u2014 card title centered and aligned with the window buttons; changing the interval no longer resets the study window to all-day"
 }
