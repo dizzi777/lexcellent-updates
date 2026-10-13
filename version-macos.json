@@ -1,7 +1,7 @@
 {
-  "version": "0.1.53",
+  "version": "0.1.54",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.53/Lexcellent-0.1.53.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.53/Lexcellent-0.1.53.dmg",
-  "notes": "macOS 0.1.53 — settings sync: the newest change wins"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.54/Lexcellent-0.1.54.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.54/Lexcellent-0.1.54.dmg",
+  "notes": "macOS 0.1.54 — the card always appears on the current desktop (incl. fullscreen apps), typed answers checked by the same rule as every other client, an interval changed on another device restarts the countdown here"
 }
