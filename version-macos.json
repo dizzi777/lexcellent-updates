@@ -1,7 +1,7 @@
 {
-  "version": "0.1.55",
+  "version": "0.1.56",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.55/Lexcellent-0.1.55.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.55/Lexcellent-0.1.55.dmg",
-  "notes": "macOS 0.1.55 \u2014 updates no longer leave the app closed after installing"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.56/Lexcellent-0.1.56.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.56/Lexcellent-0.1.56.dmg",
+  "notes": "macOS 0.1.56 \u2014 fixes the update loop (the app now reads its own version correctly) and the app no longer closes after an update"
 }
