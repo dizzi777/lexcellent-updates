@@ -1,7 +1,7 @@
 {
-  "version": "0.1.56",
+  "version": "0.1.57",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.56/Lexcellent-0.1.56.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.56/Lexcellent-0.1.56.dmg",
-  "notes": "macOS 0.1.56 \u2014 fixes the update loop (the app now reads its own version correctly) and the app no longer closes after an update"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.57/Lexcellent-0.1.57.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.57/Lexcellent-0.1.57.dmg",
+  "notes": "macOS 0.1.57 \u2014 if your account's sign-in service moves, the app asks you to sign in again instead of staying offline"
 }
