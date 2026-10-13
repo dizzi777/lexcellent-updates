@@ -1,7 +1,7 @@
 {
-  "version": "0.1.59",
+  "version": "0.1.60",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.59/Lexcellent-0.1.59.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.59/Lexcellent-0.1.59.dmg",
-  "notes": "macOS 0.1.59 \u2014 card: language pair and source centered on one line, the question centered below; app icon next to the name"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.60/Lexcellent-0.1.60.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.60/Lexcellent-0.1.60.dmg",
+  "notes": "macOS 0.1.60 \u2014 card layout pass: brand in the title bar, the prompt centered, quieter language pair"
 }
