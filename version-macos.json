@@ -1,7 +1,7 @@
 {
-  "version": "0.1.57",
+  "version": "0.1.58",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.57/Lexcellent-0.1.57.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.57/Lexcellent-0.1.57.dmg",
-  "notes": "macOS 0.1.57 \u2014 if your account's sign-in service moves, the app asks you to sign in again instead of staying offline"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.58/Lexcellent-0.1.58.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.58/Lexcellent-0.1.58.dmg",
+  "notes": "macOS 0.1.58 \u2014 the card shows its source in the top line (it no longer looks like an example); your own answer is no longer drawn twice"
 }
