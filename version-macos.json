@@ -1,7 +1,7 @@
 {
-  "version": "0.1.58",
+  "version": "0.1.59",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.58/Lexcellent-0.1.58.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.58/Lexcellent-0.1.58.dmg",
-  "notes": "macOS 0.1.58 \u2014 the card shows its source in the top line (it no longer looks like an example); your own answer is no longer drawn twice"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.59/Lexcellent-0.1.59.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.59/Lexcellent-0.1.59.dmg",
+  "notes": "macOS 0.1.59 \u2014 card: language pair and source centered on one line, the question centered below; app icon next to the name"
 }
