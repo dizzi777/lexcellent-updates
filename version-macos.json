@@ -1,7 +1,7 @@
 {
-  "version": "0.1.61",
+  "version": "0.1.62",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.61/Lexcellent-0.1.61.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.61/Lexcellent-0.1.61.dmg",
-  "notes": "macOS 0.1.61 \u2014 card title centered and aligned with the window buttons; changing the interval no longer resets the study window to all-day"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.62/Lexcellent-0.1.62.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.62/Lexcellent-0.1.62.dmg",
+  "notes": "macOS 0.1.62 — Sign out and Delete account moved into Settings (Delete opens the site); counted words and minutes decline correctly"
 }
