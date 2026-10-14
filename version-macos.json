@@ -1,7 +1,7 @@
 {
-  "version": "0.1.62",
+  "version": "0.1.63",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.62/Lexcellent-0.1.62.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.62/Lexcellent-0.1.62.dmg",
-  "notes": "macOS 0.1.62 — Sign out and Delete account moved into Settings (Delete opens the site); counted words and minutes decline correctly"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.63/Lexcellent-0.1.63.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.63/Lexcellent-0.1.63.dmg",
+  "notes": "macOS 0.1.63 — card: the question sits right above the word, the example is centered"
 }
