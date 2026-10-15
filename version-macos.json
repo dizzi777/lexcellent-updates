@@ -1,7 +1,7 @@
 {
-  "version": "0.1.63",
+  "version": "0.1.64",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.63/Lexcellent-0.1.63.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.63/Lexcellent-0.1.63.dmg",
-  "notes": "macOS 0.1.63 — card: the question sits right above the word, the example is centered"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.64/Lexcellent-0.1.64.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.64/Lexcellent-0.1.64.dmg",
+  "notes": "macOS 0.1.64 — the start window explains empty sources and 'no source selected'"
 }
