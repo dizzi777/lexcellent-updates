@@ -1,7 +1,7 @@
 {
-  "version": "0.1.64",
+  "version": "0.1.65",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.64/Lexcellent-0.1.64.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.64/Lexcellent-0.1.64.dmg",
-  "notes": "macOS 0.1.64 — the start window explains empty sources and 'no source selected'"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.65/Lexcellent-0.1.65.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.65/Lexcellent-0.1.65.dmg",
+  "notes": "macOS 0.1.65 — word priority, persistent study order and repeated-card fixes"
 }
