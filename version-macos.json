@@ -1,7 +1,7 @@
 {
-  "version": "0.1.65",
+  "version": "0.1.66",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.65/Lexcellent-0.1.65.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.65/Lexcellent-0.1.65.dmg",
-  "notes": "macOS 0.1.65 — word priority, persistent study order and repeated-card fixes"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.66/Lexcellent-0.1.66.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.66/Lexcellent-0.1.66.dmg",
+  "notes": "macOS 0.1.66 \u2014 answer feedback timing and language-pair alignment"
 }
