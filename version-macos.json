@@ -1,7 +1,7 @@
 {
-  "version": "0.1.66",
+  "version": "0.1.67",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.66/Lexcellent-0.1.66.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.66/Lexcellent-0.1.66.dmg",
-  "notes": "macOS 0.1.66 \u2014 answer feedback timing and language-pair alignment"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.67/Lexcellent-0.1.67.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.67/Lexcellent-0.1.67.dmg",
+  "notes": "macOS 0.1.67 — source switches and instant cross-device source selection"
 }
