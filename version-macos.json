@@ -1,7 +1,7 @@
 {
-  "version": "0.1.67",
+  "version": "0.1.68",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.67/Lexcellent-0.1.67.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.67/Lexcellent-0.1.67.dmg",
-  "notes": "macOS 0.1.67 — source switches and instant cross-device source selection"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.68/Lexcellent-0.1.68.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v0.1.68/Lexcellent-0.1.68.dmg",
+  "notes": "macOS 0.1.68 — native pronunciation offline, cards only from selected sources, signed-out reminder"
 }
