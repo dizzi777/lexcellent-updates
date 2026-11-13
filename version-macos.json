@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.4/Lexcellent-1.1.4.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.4/Lexcellent-1.1.4.dmg",
-  "notes": "macOS 1.1.4 — the card's word is centred, the speaker sits just to its right"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.5/Lexcellent-1.1.5.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.5/Lexcellent-1.1.5.dmg",
+  "notes": "macOS 1.1.5 — the speaker no longer lands on a long word; the word stays centred"
 }
