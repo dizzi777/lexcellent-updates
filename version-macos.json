@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.6/Lexcellent-1.1.6.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.6/Lexcellent-1.1.6.dmg",
-  "notes": "macOS 1.1.6 — cards in Dutch, Swedish, Norwegian, Polish, Romanian and Greek"
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.7/Lexcellent-1.1.7.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.7/Lexcellent-1.1.7.dmg",
+  "notes": "Interface in 18 languages, answer history window, language-pair chips in Sources."
 }
