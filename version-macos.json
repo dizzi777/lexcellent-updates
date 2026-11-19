@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.9/Lexcellent-1.1.9.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.9/Lexcellent-1.1.9.dmg",
-  "notes": "Interface in Korean, Czech and Slovak; interface texts arrive from the server."
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.10/Lexcellent-1.1.10.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.10/Lexcellent-1.1.10.dmg",
+  "notes": "Card editor opens at the card's size; «В Знаю» on the card; a gone word's card never comes back."
 }
