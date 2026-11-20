@@ -1,7 +1,7 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.10/Lexcellent-1.1.10.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.10/Lexcellent-1.1.10.dmg",
-  "notes": "Card editor opens at the card's size; «В Знаю» on the card; a gone word's card never comes back."
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.11/Lexcellent-1.1.11.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.11/Lexcellent-1.1.11.dmg",
+  "notes": "Card editor without scrolling; a long word on the card stays whole."
 }
