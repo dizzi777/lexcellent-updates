@@ -1,7 +1,7 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.11/Lexcellent-1.1.11.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.11/Lexcellent-1.1.11.dmg",
-  "notes": "Card editor without scrolling; a long word on the card stays whole."
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.12/Lexcellent-1.1.12.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.12/Lexcellent-1.1.12.dmg",
+  "notes": "macOS 1.1.12"
 }
