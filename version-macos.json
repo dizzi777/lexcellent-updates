@@ -1,7 +1,7 @@
 {
-  "version": "1.1.16",
+  "version": "1.1.17",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.16/Lexcellent-1.1.16.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.16/Lexcellent-1.1.16.dmg",
-  "notes": "The card window is half see-through while another app has the keyboard."
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.17/Lexcellent-1.1.17.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.17/Lexcellent-1.1.17.dmg",
+  "notes": "Show now and training open the card window ready to type, without the translucent flash."
 }
