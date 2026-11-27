@@ -1,7 +1,7 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "channel": "macos",
-  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.17/Lexcellent-1.1.17.zip",
-  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.17/Lexcellent-1.1.17.dmg",
-  "notes": "Show now and training open the card window ready to type, without the translucent flash."
+  "url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.18/Lexcellent-1.1.18.zip",
+  "dmg_url": "https://github.com/dizzi777/lexcellent-updates/releases/download/macos-v1.1.18/Lexcellent-1.1.18.dmg",
+  "notes": "The Mac checks for changes less often while idle; the study queue is kept when nothing changed."
 }
